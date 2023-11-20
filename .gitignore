@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+
+# Dependency directories
+**/bower_components/
+**/jspm_packages/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Compiled output
+dist/
+build/
+*.log
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Environment configuration files
+.env
+
+# Package lock files
+package-lock.json
+yarn.lock
